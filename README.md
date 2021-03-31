@@ -1,4 +1,4 @@
-Hey, I'm Rui a guy from Portugal who is learning the basics of coding but who aspires to become an experienced programmer.
+Hey, I'm Rui a guy from Portugal who's learning the basics of coding but who aspires to become an experienced programmer.
 I'm currently taking a Master in Informatics and Computing Engineering at FEUP (Porto) and most of my repositories will be related to university work.
 
 
