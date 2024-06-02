@@ -4,6 +4,7 @@
 - 🌱 Recently I’ve been focused on learning how databases actually work and exploring NoSQL solutions.
 - 🔭 Actively working towards attaining my **Master's Degree**.
 - 📫 How to reach me **ruipires.373@gmail.com**
+- 🃏 If you're ever in the mood for some blackjack: https://rui-exe.github.io/blackjack/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
