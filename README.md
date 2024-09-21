@@ -2,8 +2,8 @@
 <h3 align="center">A software developer from Portugal with a Bachelor's Degree on Informatics and Computing Engineering.</h3>
 
 - 🃏 If you're ever in the mood for some blackjack: https://rui-exe.github.io/blackjack/
-- 🌱 Recently I’ve been focused on learning how databases actually work and exploring NoSQL solutions.
-- 🔭 Actively working towards attaining my **Master's Degree**.
+- 🌱 Recently I’ve been focused on exploring NoSQL solutions and learning how to use Go to develop the backend of webapps.
+- 🔭 Actively working towards attaining my **Master's Degree** (currently on the last year).
 - 📫 How to reach me **ruipires.373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
