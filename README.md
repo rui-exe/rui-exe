@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Rui Pires</h1>
+<h2 align="center">Hi, I'm Rui</h1>
 <h3 align="center">A software developer from Portugal with a Bachelor's Degree on Informatics and Computing Engineering.</h3>
 
 - 🃏 If you're ever in the mood for some blackjack: https://rui-exe.github.io/blackjack/
