@@ -4,6 +4,7 @@
 - 🌐 My personal website: **[ruipires.xyz](https://ruipires.xyz)**
 - 🌱 Backend Developer Intern at [OddsGate](https://oddsgate.com/)
 - 📫 How to reach me **ruipires.373@gmail.com**
+- 🔐 Heavily interested in distributed systems and cryptography.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
