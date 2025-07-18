@@ -2,7 +2,6 @@
 <h3 align="center">A software developer from Portugal with a Bachelor's Degree on Informatics and Computing Engineering.</h3>
 
 - 🌐 My personal website: **[ruipires.xyz](https://ruipires.xyz)**
-- 🌱 Backend Developer Intern at [OddsGate](https://oddsgate.com/)
 - 📫 How to reach me **ruipires.373@gmail.com**
 - 🔐 Heavily interested in distributed systems and cryptography.
 
